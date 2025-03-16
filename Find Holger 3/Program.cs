@@ -25,6 +25,8 @@ for (int i = 0; i < posy - 1; i++)
 
 }
 
+
+//(hejehejehj
 Console.WriteLine(" ");
 
 for (int z = 0; z < posx - 1; z++)
